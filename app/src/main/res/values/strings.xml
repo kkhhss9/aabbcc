@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">반려 동물 등록</string>
+    <string name="pet_inf">반려 동물이 없습니다</string>
+    <string name="btn1">등록하기</string>
+</resources>
